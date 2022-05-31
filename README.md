@@ -14,12 +14,12 @@ The aim of this project is to analyze data from New York City's CitiBike to conv
 
 While the demographics of Des Moines may be different from that of New York City, it can provide some insight on the general use of the program.
 
-![](/images/commute_times)
+![](/images/commute_times.png)
 
-![](/images/user_trips_weekday)
+![](/images/user_trips_weekday.png)
 
-![](/images/bikes_due_repair)
+![](/images/bikes_due_repair.png)
 
-![](/images/checkout_times_users)
+![](/images/checkout_times_users.png)
 
-![](/images/checkout_times_gender)
+![](/images/checkout_times_gender.png)
